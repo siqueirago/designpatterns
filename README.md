@@ -1,5 +1,5 @@
 
-# Projeto de Padrões de Projeto com Spring Boot
+# Padrões de Projeto com Spring Boot
 Este projeto demonstra a implementação de padrões de projeto (Design Patterns) utilizando Spring Boot. Os padrões implementados incluem Singleton, Factory Method e Strategy. Além disso, a documentação da API é gerada automaticamente utilizando Swagger.
 
 ## Estrutura do Projeto
